@@ -50,7 +50,7 @@ A full-stack social media platform for sharing memories with authentication, CRU
    # Install server dependencies
    cd server && npm install
 
-   ```bash
+
    # Install client dependencies
    cd client && npm install
 3. run the server and react app
