@@ -2,7 +2,6 @@
 
 A full-stack social media platform for sharing memories with authentication, CRUD operations, pagination, and real-time interactions. Built with the MERN stack (MongoDB, Express, React, and Node.js).
 
-![App Screenshot](/public/screenshot.png)
 
 ## ✨ Key Features
 
@@ -47,9 +46,11 @@ A full-stack social media platform for sharing memories with authentication, CRU
    git clone https://github.com/sepehrshahinfar/memories.git
    cd memories
 2. Install dependencies
+```bash
 # Install server dependencies
 cd server && npm install
 
+```bash
 # Install client dependencies
 cd client && npm install
 3. run the server and react app
